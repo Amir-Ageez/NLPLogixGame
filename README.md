@@ -20,5 +20,4 @@ open command line
 
 type "dotnet NLPLogixGame.dll" 
 
-and hit enter
-
+hit enter

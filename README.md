@@ -8,7 +8,7 @@ The game is defualted to size 20 * 20
 
 The default refresh time is 1 second
 
-# To Run the Game
+# To run the Game
 
 clone the repository
 

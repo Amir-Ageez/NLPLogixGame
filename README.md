@@ -2,7 +2,7 @@
 
 Development time ~ 3 hours
 
-The game is build using Net core 2.2
+The game is built using Net core 2.2
 
 The game is defualted to size 20 * 20
 

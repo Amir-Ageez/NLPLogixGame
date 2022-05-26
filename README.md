@@ -21,3 +21,7 @@ open command line
 type "dotnet NLPLogixGame.dll" 
 
 hit enter
+
+# To end the Game
+
+close the console window 
